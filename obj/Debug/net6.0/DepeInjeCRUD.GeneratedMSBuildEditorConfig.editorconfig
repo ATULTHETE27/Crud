@@ -1,0 +1,95 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DepeInjeCRUD
+build_property.RootNamespace = DepeInjeCRUD
+build_property.ProjectDir = D:\ALL Study Material courses\dotNET\.NET codes\CompleteGuideTo-Asp.netCoreMVC-6.0-master\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\ALL Study Material courses\dotNET\.NET codes\CompleteGuideTo-Asp.netCoreMVC-6.0-master
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Collage/CreateCollage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGFnZVxDcmVhdGVDb2xsYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Collage/EditCollage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGFnZVxFZGl0Q29sbGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Collage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Shared/Components/CollageMenu/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29sbGFnZU1lbnVcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Shared/_CollageFormFields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Db2xsYWdlRm9ybUZpZWxkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Student/AddNewStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGROZXdTdHVkZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Student/DisplayStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEaXNwbGF5U3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Student/DisplayStudentByCollageId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEaXNwbGF5U3R1ZGVudEJ5Q29sbGFnZUlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Student/EditStudent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0U3R1ZGVudC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Student/GetStudentByStudentId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXRTdHVkZW50QnlTdHVkZW50SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/ALL Study Material courses/dotNET/.NET codes/CompleteGuideTo-Asp.netCoreMVC-6.0-master/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3rpzyp419i
